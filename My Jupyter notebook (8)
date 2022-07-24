@@ -1,0 +1,83 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "d9a14315-0bd5-450c-b660-97352f12224e",
+   "metadata": {},
+   "source": [
+    "# MY Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "50f5f7a5-514c-4213-be69-ca3716513f14",
+   "metadata": {},
+   "source": [
+    "**RASHIL RAJ PULIKKAL RAJAN**\n",
+    "\n",
+    "  Data Scientist"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "057fa078-296d-4291-b04d-fe52f9bf9845",
+   "metadata": {},
+   "source": [
+    "_I am interested in data science beacause numerous industries are skyrocking with the help of data science. As the field of data science develops ,so do the carrer options it open up._"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ebc71ee0-f963-4e23-8216-579e00e44fbc",
+   "metadata": {},
+   "source": [
+    "### The following code will display the addition of numbers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "6ad33400-e4d7-4db6-b855-d7a2eefdccd1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(2+4+2+2)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f0e944ab-e134-4ddb-8c14-a82d64839299",
+   "metadata": {},
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
